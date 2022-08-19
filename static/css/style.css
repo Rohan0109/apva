@@ -1,0 +1,13 @@
+df-messenger {
+    --df-messenger-bot-message: darkgray;
+    --df-messenger-button-titlebar-color: blueviolet;
+    --df-messenger-chat-background-color: snow;
+    --df-messenger-font-color: white;
+    --df-messenger-send-icon: #878fac;
+    --df-messenger-user-message: #8a2be2;
+   }
+
+#messageList .message.user-message {
+    display: inline-block !important;
+    float: right;
+}
